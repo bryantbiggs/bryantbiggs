@@ -15,7 +15,7 @@
 
 ## The Deets
 
-### Who am I
+### Who I am
 
 An engineer passionate about cloud infrastructure, serverless technologies, and helping folks create secure, scalable infrastructure
 
@@ -37,12 +37,8 @@ Helping teams create secure, scalable infrastructure following modern cloud nati
 <!-- Just a hack for a thin line  -->
 ##
 
-If you like or enjoy what I do, maybe you'd be kind enough to sponsor or buy me a coffee 😬
+If you like or enjoy what I do, maybe you'd be kind enough to sponsor 😬
 
 <a href="https://github.com/sponsors/bryantbiggs" target="_blank">
   <img src="https://img.shields.io/badge/-Sponsor-fafbfc?logo=GitHub%20Sponsors" width="100"/>
-</a>
-<br>
-<a href="https://buymeacoffee.com/yBzdL6O9c" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="125" >
 </a>
