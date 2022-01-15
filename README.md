@@ -15,7 +15,7 @@
 
 ## The Deets
 
-#### 📌 Available for consultation via the [AWS IQ](https://iq.aws/e/bryantbiggs) or direct C2C
+#### 👉 Available for consultation via the [AWS IQ](https://iq.aws/e/bryantbiggs) or direct C2C 🚀
 
 ### Who I am
 
