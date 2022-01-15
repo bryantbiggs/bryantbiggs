@@ -1,6 +1,6 @@
 <h2> Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, and welcome to my space</h2>
-<a href= "https://github.com/bryantbiggs/bryantbiggs/">
-    <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white"/>
+<a href= "https://iq.aws/e/bryantbiggs">
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white"/>
 </a>
 <a href= "https://www.linkedin.com/in/bryantbiggs/">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
