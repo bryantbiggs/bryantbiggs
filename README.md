@@ -15,6 +15,8 @@
 
 ## The Deets
 
+#### 📌 Available for consultation via the [AWS IQ](https://iq.aws/e/bryantbiggs) or direct C2C
+
 ### Who I am
 
 An engineer passionate about cloud infrastructure, serverless technologies, and helping folks create secure, scalable infrastructure
