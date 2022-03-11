@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white"/>
 </a>
 <a href= "https://www.linkedin.com/in/bryantbiggs/">
-  <img src="https://imgsdasdasdasd.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+  <img src="https://gify.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
 </a>
 <a href= "mailto:bryantbiggs@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/>
