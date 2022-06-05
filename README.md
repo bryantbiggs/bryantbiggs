@@ -25,6 +25,10 @@ An engineer passionate about cloud infrastructure, serverless technologies, and 
 
 Terraform, Serverless, Kubernetes and all that jazz
 
+<div align="center">
+<img width="75%" alt="Terraform" src="./imgs/terraform2.png" />
+</div>
+
 <!-- Just a hack for a thin line  -->
 ##
 
