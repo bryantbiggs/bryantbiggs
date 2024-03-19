@@ -11,6 +11,8 @@
 <br>
 <br>
 
+![](https://raw.githubusercontent.com/bryantbiggs/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 <img width="45%" align="right" alt="Github" src="./imgs/aws.svg" />
 
 ## The Deets
