@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" fill="none">
+  <defs>
+    <linearGradient id="block-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8111E4"/>
+      <stop offset="100%" stop-color="#EC4899"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8111E4"/>
+      <stop offset="100%" stop-color="#EC4899"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background - OAR dark -->
+  <rect width="900" height="280" rx="8" fill="#1A0A2E"/>
+
+  <!-- Parallel Unpack motif — archive block splitting into chunk streams -->
+  <!-- Archive block (source) -->
+  <rect x="590" y="45" width="32" height="190" rx="10" fill="url(#block-gradient)" opacity="0.85"/>
+
+  <!-- Stream 1 (top) -->
+  <rect x="638" y="48" width="42" height="22" rx="6" fill="#8111E4"/>
+  <rect x="688" y="48" width="32" height="22" rx="6" fill="#8111E4" opacity="0.55"/>
+  <rect x="728" y="48" width="22" height="22" rx="6" fill="#8111E4" opacity="0.3"/>
+
+  <!-- Stream 2 -->
+  <rect x="638" y="80" width="56" height="22" rx="6" fill="#9A36F2" opacity="0.9"/>
+  <rect x="702" y="80" width="38" height="22" rx="6" fill="#9A36F2" opacity="0.5"/>
+  <rect x="748" y="80" width="26" height="22" rx="6" fill="#9A36F2" opacity="0.25"/>
+
+  <!-- Stream 3 -->
+  <rect x="638" y="112" width="34" height="22" rx="6" fill="#BE80F4" opacity="0.8"/>
+  <rect x="680" y="112" width="50" height="22" rx="6" fill="#BE80F4" opacity="0.45"/>
+  <rect x="738" y="112" width="30" height="22" rx="6" fill="#BE80F4" opacity="0.2"/>
+
+  <!-- Stream 4 -->
+  <rect x="638" y="144" width="48" height="22" rx="6" fill="#EC4899" opacity="0.8"/>
+  <rect x="694" y="144" width="36" height="22" rx="6" fill="#EC4899" opacity="0.45"/>
+
+  <!-- Stream 5 -->
+  <rect x="638" y="176" width="60" height="22" rx="6" fill="#9A36F2" opacity="0.65"/>
+  <rect x="706" y="176" width="28" height="22" rx="6" fill="#9A36F2" opacity="0.35"/>
+
+  <!-- Stream 6 (bottom) -->
+  <rect x="638" y="208" width="38" height="22" rx="6" fill="#8111E4" opacity="0.55"/>
+  <rect x="684" y="208" width="44" height="22" rx="6" fill="#8111E4" opacity="0.3"/>
+
+  <!-- Accent underline -->
+  <rect x="60" y="152" width="70" height="3" rx="1.5" fill="url(#accent)"/>
+
+  <!-- Name -->
+  <text x="60" y="135" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="48" font-weight="800" fill="#F5F0FF" letter-spacing="-1">Bryant Biggs</text>
+
+  <!-- Tagline -->
+  <text x="60" y="195" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', monospace" font-size="15" fill="#BE80F4">Optimized containers without compromise</text>
+  <text x="60" y="219" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', monospace" font-size="15" fill="#BE80F4" opacity="0.6">Rust · Kubernetes · AWS</text>
+
+  <!-- Bottom accent line -->
+  <rect x="0" y="276" width="900" height="4" fill="url(#accent)" opacity="0.5"/>
+</svg>
