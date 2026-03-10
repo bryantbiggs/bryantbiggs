@@ -60,6 +60,12 @@ I've spent a lot of time making it practical to run GPU and accelerator workload
 
 Much of this lives in [EKS Blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints) (3,000+ stars), where I've contributed over 30 patterns.
 
+## Support My Work
+
+If these tools save your team time, consider [sponsoring my work](https://github.com/sponsors/bryantbiggs). Sponsorship directly funds continued maintenance of 60+ Terraform modules, new Rust infrastructure tools, and upstream contributions to projects like Karpenter, containerd, and OpenTelemetry.
+
+<a href="https://github.com/sponsors/bryantbiggs"><img src="https://img.shields.io/badge/-Sponsor_My_Work-EC4899?style=for-the-badge&logo=githubsponsors&logoColor=white"/></a>
+
 ---
 
 <sub>Chicago · [clowd.haus](https://clowd.haus)</sub>
