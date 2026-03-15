@@ -58,7 +58,7 @@ I've spent a lot of time making it practical to run GPU and accelerator workload
 - Container image caching for 20GB+ ML images
 - Karpenter autoscaling for heterogeneous GPU fleets
 
-Much of this lives in [EKS Blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints) (3,000+ stars), where I've contributed over 30 patterns.
+Much of this lives in [EKS Blueprints](https://github.com/aws-ia/terraform-aws-eks-blueprints) (3,000+ stars) where I was a core maintainer.
 
 ## Support My Work
 
