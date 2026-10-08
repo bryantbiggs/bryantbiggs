@@ -15,10 +15,10 @@ I build the infrastructure tools that teams use to run Kubernetes and AI/ML work
 
 <table>
 <tr>
-<td align="center"><h3>1.77B+</h3><sub>Terraform Registry<br/>downloads</sub></td>
-<td align="center"><h3>17,600+</h3><sub>GitHub stars across<br/>maintained modules</sub></td>
-<td align="center"><h3>60+</h3><sub>Terraform modules<br/>maintained</sub></td>
-<td align="center"><h3>900+</h3><sub>merged PRs in<br/>terraform-aws-modules</sub></td>
+<td align="center"><h3>2.36B+</h3><sub>Terraform Registry<br/>downloads</sub></td>
+<td align="center"><h3>19,400+</h3><sub>GitHub stars across<br/>maintained modules</sub></td>
+<td align="center"><h3>55+</h3><sub>Terraform modules<br/>maintained</sub></td>
+<td align="center"><h3>950+</h3><sub>merged PRs in<br/>terraform-aws-modules</sub></td>
 </tr>
 </table>
 
@@ -26,7 +26,7 @@ I build the infrastructure tools that teams use to run Kubernetes and AI/ML work
 
 I'm a core maintainer of [terraform-aws-modules](https://github.com/terraform-aws-modules) — the most widely adopted Terraform modules for AWS, covering everything from EKS and VPC to Lambda, RDS, IAM, and dozens more. I created 20+ of those modules from scratch.
 
-[terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) (4,900+ stars) is the one I'm most known for — it's how most teams provision and manage their EKS clusters. I also contribute upstream to [kubernetes-sigs](https://github.com/kubernetes-sigs) projects like [Karpenter](https://github.com/aws/karpenter-provider-aws), [aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator), and others.
+[terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) (5,000+ stars) is the one I'm most known for — it's how most teams provision and manage their EKS clusters. I also contribute upstream to [kubernetes-sigs](https://github.com/kubernetes-sigs) projects like [Karpenter](https://github.com/aws/karpenter-provider-aws), [aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator), and others.
 
 ## Where I'm Focused Now
 
@@ -62,7 +62,7 @@ Much of this lives in [EKS Blueprints](https://github.com/aws-ia/terraform-aws-e
 
 ## Support My Work
 
-If these tools save your team time, consider [sponsoring my work](https://github.com/sponsors/bryantbiggs). Sponsorship directly funds continued maintenance of 60+ Terraform modules, new Rust infrastructure tools, and upstream contributions to projects like Karpenter, containerd, and OpenTelemetry.
+If these tools save your team time, consider [sponsoring my work](https://github.com/sponsors/bryantbiggs). Sponsorship directly funds continued maintenance of 55+ Terraform modules, new Rust infrastructure tools, and upstream contributions to projects like Karpenter, containerd, and OpenTelemetry.
 
 <a href="https://github.com/sponsors/bryantbiggs"><img src="https://img.shields.io/badge/-Sponsor_My_Work-EC4899?style=for-the-badge&logo=githubsponsors&logoColor=white"/></a>
 
