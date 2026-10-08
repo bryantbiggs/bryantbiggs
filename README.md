@@ -46,7 +46,6 @@ What I've built:
 Where I contribute upstream:
 
 - **[containerd/rust-extensions](https://github.com/containerd/rust-extensions)** — protobuf definitions, dependency hygiene, workspace standardization
-- **[opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust)** — performance in the metrics hot path, spec compliance, fixing exporter deadlocks on constrained tokio runtimes
 
 ## AI/ML Infrastructure
 
@@ -62,7 +61,7 @@ Much of this lives in [EKS Blueprints](https://github.com/aws-ia/terraform-aws-e
 
 ## Support My Work
 
-If these tools save your team time, consider [sponsoring my work](https://github.com/sponsors/bryantbiggs). Sponsorship directly funds continued maintenance of 55+ Terraform modules, new Rust infrastructure tools, and upstream contributions to projects like Karpenter, containerd, and OpenTelemetry.
+If these tools save your team time, consider [sponsoring my work](https://github.com/sponsors/bryantbiggs). Sponsorship directly funds continued maintenance of 55+ Terraform modules, new Rust infrastructure tools, and upstream contributions to projects like Karpenter and containerd.
 
 <a href="https://github.com/sponsors/bryantbiggs"><img src="https://img.shields.io/badge/-Sponsor_My_Work-EC4899?style=for-the-badge&logo=githubsponsors&logoColor=white"/></a>
 
